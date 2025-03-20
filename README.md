@@ -57,10 +57,6 @@ Este projeto simula o clássico efeito de um logo de DVD quicando na tela. Ele �
 * `DvdColors`:  Extende a classe DVD para adicionar funcionalidade de mudar de cor.
 * `KickText`: Extende a classe DvdColors para implementar o movimento de "quique" do texto.
 
-### Diagrama de Classes
-
-\[Espaço para Diagrama UML]
-
 ### Melhorias Futuras
 
 * Adicionar mais opções de personalização (tamanho do texto, velocidade, etc.).
